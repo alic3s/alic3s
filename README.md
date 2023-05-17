@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate on these subjects studied by me with other people as lost as me
 - 📫 How to reach me ...
 
-<2 class="devicon-python-plain-wordmark colored"></2>
+
           
 
 <!---
